@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://dugidugi.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: 타이틀
