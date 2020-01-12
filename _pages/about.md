@@ -27,3 +27,5 @@ permalink: /about/
 **Instagram** [@duggis](https://www.instagram.com/duggis)
 
 **Github** [@dugidugi](https://github.com/dugidugi/)
+
+**E-mail** [yoodugi@gmail.com](mailto:yoodugi@gmail.com)
